@@ -154,6 +154,9 @@ export default defineConfig({
 		],
 	},
 	vite: {
+		server: {
+                          allowedHosts: ["mainframe.vespahomelab.ru"],
+                        },
 		build: {
 			rollupOptions: {
 				onwarn(warning, warn) {

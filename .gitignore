@@ -29,3 +29,12 @@ yarn.lock
 # ide
 .idea
 *.iml
+
+# Docker
+Dockerfile*
+docker-compose.yml
+*.tar
+*.pid
+
+# Portainer bind mounts (если есть)
+volumes/

@@ -1,12 +1,12 @@
 ---
-title: Тест сборки
+title: Тест сборки номер nhb
 published: 2023-08-01
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Example, Video]
 category: Examples
 draft: false
 ---
-
+я не уверен ну
 Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
 
 ```yaml
