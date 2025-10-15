@@ -2,7 +2,11 @@ services:
   locary:
     build:
       context: .
-      dockerfile: Dockerfile
+    volumes:
+      - /home/shu/fuwa/locary:/app
     ports:
       - "4321:4321"
     restart: always
+
+
+    
