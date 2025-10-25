@@ -59,12 +59,9 @@ export const profileConfig: ProfileConfig = {
 	bio: "exploring the unknown",
 	links: [
 		{
-			name: "telegram"
-			icon: "fa6-brands:github", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://t.me/@a89998538850",
-		},
+			name: "Steam",
+			icon: "fa6-brands:steam",
+			url: "https://steamcommunity.com/id/sofuckedkitty/",		},
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
