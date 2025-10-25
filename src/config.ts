@@ -59,8 +59,8 @@ export const profileConfig: ProfileConfig = {
 	bio: "exploring the unknown",
 	links: [
 		{
-			name: "telegram",
-			icon: "gravity-ui:logo-telegram", // Visit https://icones.js.org/ for icon codes
+			name: "telegram"
+			icon: "fa6-brands:steam", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "http://t.me/@a89998538850",
